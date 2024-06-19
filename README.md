@@ -1,4 +1,4 @@
-# Teknoloji WebSitesi
+# Teknoloji Şirket WebSitesi
 
 Bu proje, modern ve yenilikçi tasarım yaklaşımlarını benimseyen bir web tasarım ve geliştirme ajansının tanıtım sitesidir. Web sitesi, ajansın hizmetlerini, çalışanlarını ve gerçekleştirdiği projeleri tanıtmak amacıyla tasarlanmıştır.
 
