@@ -7,7 +7,7 @@ Bu proje, modern ve yenilikçi tasarım yaklaşımlarını benimseyen bir web ta
 - **Duyarlı Tasarım:** Tüm cihazlarda ve ekran boyutlarında kusursuz görüntü.
 - **Bootstrap Entegrasyonu:** Hızlı ve modern tasarım bileşenleri.
 - **Font Awesome:** Şık ve kullanışlı ikonlar.
-- **Kolay Navigasyon:** Kullanıcı dostu menü ve sayfa yapısı.
+- **Gezinme:** Kullanıcı dostu menü ve sayfa yapısı.
 - **Portföy:** Ajansın tamamladığı projeleri detaylı bir şekilde sunar.
 
 
