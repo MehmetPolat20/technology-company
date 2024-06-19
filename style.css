@@ -7,7 +7,7 @@
   color: white;
 }
 .nav-bg {
-  background-color: rgba(39, 39, 39, 0.404);
+  background-color: rgba(158, 152, 152, 0.404);
 }
 .header-yuk {
   height: 100px;
@@ -65,7 +65,7 @@
   }
   .navbar-toggler{
  
-    border: 1px solid white !important;
+    
     z-index: 999;
     position: fixed;
     right: 10px;
